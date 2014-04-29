@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eSpice</string>
+
+    <string-array name="options">
+        <item>Crew</item>
+        <item>Alumni</item>
+        <item>Achievements</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    
+    <string name="about">About eSpice </string>
+    <string name="about1">eSpice, the computer club of Delhi Public School, Noida is one of the pioneers in its field in the NCR zone. </string>
+    <string name="about2">We realize the importance of our contribution to this field for it to progress and in team spirit which is the most important organ for success. </string>
+    <string name="about3">eSpice was founded in 2002 by Mrs. Monica Dewan, HOD of Computer Science, her team of teachers and a small group of talented students. </string>
+    <string name="about4">It is today a family of over 500 members who excel in various fields such as computer programming, quizzing, gaming, web design,film making as well as a plethora of other fields. </string>
+    <string name="about5">eSpice is an elite team formed by a number of members from diverse age groups who have represented the school at various symposiums throughout India, winning many awards and securing top positions at almost every event we have taken part in.</string>
+    <string name="alumni">eSpice Alumni</string>
+    <string name="alumnishiv">Shiv Capoor</string>
+    <string name="alumnikartik">Kartik Arora</string>
+    <string name="squadbhasin1">Raghav Bhasin</string>
+    <string name="squadbhasin2">President</string>
+    <string name="squadreddy1">P Srinivas Reddy</string>
+    <string name="squadreddy2">Vice President</string>
+    <string name="squadangad1">Angad Rana</string>
+    <string name="squadangad2">Vice President</string>
+    <string name="squadloothra1">Gaurav Loothra</string>
+    <string name="squadloothra2">Secratay</string>
+    <string name="squadpriya1">Priyanshu Mukhopadhyay</string>
+    <string name="squadpriya2">Design</string>
+    <string name="squadratik1">Ratik Sharma</string>
+    <string name="squadratik2">Code</string>
+    <string name="squaddoel1">Shubhankar Doel</string>
+     <string name="squad">eSpice Squad - 2013 </string>
+    <string name="squaddoel2">Code</string>
+    <string name="squadsarin1">Abhishek Sarin</string>
+    <string name="squadsarin2">Music</string>
+    <string name="squadvasu1">Vasu Jindal</string>
+    <string name="squadvasu2">Code</string>
+    <string name="squadskanda1">Skanda Sharma</string>
+    <string name="squadskanda2">Code</string>
+    <string name="squadgautam1">Gautam Marwah</string>
+    <string name="squadgautam2">Design</string>
+    <string name="squadclass11">Class XI</string>
+    <string name="squadclass10">Class X</string>
+    <string name="squadclass9">Class IX</string>
+
+</resources>
